@@ -1,0 +1,125 @@
+{
+  "note": "16 synthetic manually labelled development examples, not a representative accuracy benchmark. Positive means any configured warning (Moderate or above).",
+  "counts": {
+    "tp": 6,
+    "tn": 5,
+    "fp": 3,
+    "fn": 2
+  },
+  "precision": 0.667,
+  "recall": 0.75,
+  "cases": [
+    {
+      "content": "Send OTP immediately to stop account suspension",
+      "label": "suspicious",
+      "language": "en",
+      "risk": "High",
+      "outcome": "tp"
+    },
+    {
+      "content": "You are under digital arrest. Transfer to our safe account now",
+      "label": "suspicious",
+      "language": "en",
+      "risk": "High",
+      "outcome": "tp"
+    },
+    {
+      "content": "Job offer: pay registration fee",
+      "label": "suspicious",
+      "language": "en",
+      "risk": "Moderate",
+      "outcome": "tp"
+    },
+    {
+      "content": "Guaranteed return: double your money",
+      "label": "suspicious",
+      "language": "en",
+      "risk": "Moderate",
+      "outcome": "tp"
+    },
+    {
+      "content": "आपका खाता आज ही बंद होगा। ओटीपी भेजें",
+      "label": "suspicious",
+      "language": "hi",
+      "risk": "High",
+      "outcome": "tp"
+    },
+    {
+      "content": "नौकरी के लिए शुल्क जमा करें",
+      "label": "suspicious",
+      "language": "hi",
+      "risk": "Moderate",
+      "outcome": "tp"
+    },
+    {
+      "content": "OTP दर्ज करें और अपना खाता सत्यापित करें",
+      "label": "suspicious",
+      "language": "hi",
+      "risk": "Low",
+      "outcome": "fn"
+    },
+    {
+      "content": "Your parcel delivery requires a small payment",
+      "label": "suspicious",
+      "language": "en",
+      "risk": "Low",
+      "outcome": "fn"
+    },
+    {
+      "content": "Library opens tomorrow",
+      "label": "benign",
+      "language": "en",
+      "risk": "Low",
+      "outcome": "tn"
+    },
+    {
+      "content": "Never share your OTP",
+      "label": "benign",
+      "language": "en",
+      "risk": "Low",
+      "outcome": "tn"
+    },
+    {
+      "content": "Your appointment is today at 10",
+      "label": "benign",
+      "language": "en",
+      "risk": "Moderate",
+      "outcome": "fp"
+    },
+    {
+      "content": "Urgent: team meeting moved to noon",
+      "label": "benign",
+      "language": "en",
+      "risk": "Moderate",
+      "outcome": "fp"
+    },
+    {
+      "content": "नमस्ते, पुस्तकालय कल खुलेगा",
+      "label": "benign",
+      "language": "hi",
+      "risk": "Low",
+      "outcome": "tn"
+    },
+    {
+      "content": "आज ही अपना गृहकार्य पूरा करें",
+      "label": "benign",
+      "language": "hi",
+      "risk": "Moderate",
+      "outcome": "fp"
+    },
+    {
+      "content": "https://example.com/about",
+      "label": "benign",
+      "language": "en",
+      "risk": "Low",
+      "outcome": "tn"
+    },
+    {
+      "content": "Dinner at six?",
+      "label": "benign",
+      "language": "en",
+      "risk": "Low",
+      "outcome": "tn"
+    }
+  ]
+}

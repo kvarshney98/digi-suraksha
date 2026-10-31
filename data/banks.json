@@ -1,0 +1,97 @@
+[
+  {
+    "id": "sbi",
+    "name": {
+      "en": "State Bank of India",
+      "hi": "भारतीय स्टेट बैंक"
+    },
+    "country": {
+      "en": "India",
+      "hi": "भारत"
+    },
+    "phone": "1800111109",
+    "url": "https://sbi.bank.in/en/web/customer-care/contact-centre",
+    "source": "https://sbi.bank.in/en/web/customer-care/contact-centre",
+    "last_verified": "2026-10-31",
+    "purpose": {
+      "en": "Dedicated unauthorised-transaction reporting helpline.",
+      "hi": "अनधिकृत लेनदेन की सूचना के लिए समर्पित हेल्पलाइन।"
+    }
+  },
+  {
+    "id": "hdfc",
+    "name": {
+      "en": "HDFC Bank",
+      "hi": "HDFC बैंक"
+    },
+    "country": {
+      "en": "India",
+      "hi": "भारत"
+    },
+    "phone": "18001600",
+    "url": "https://www.hdfc.bank.in/contact-us",
+    "source": "https://www.hdfc.bank.in/contact-us",
+    "last_verified": "2026-10-31",
+    "purpose": {
+      "en": "Bank helpline for reporting online fraud / unauthorised transactions. Alternate: 1800 2600.",
+      "hi": "ऑनलाइन धोखाधड़ी / अनधिकृत लेनदेन की सूचना के लिए बैंक हेल्पलाइन। वैकल्पिक: 1800 2600।"
+    }
+  },
+  {
+    "id": "icici",
+    "name": {
+      "en": "ICICI Bank",
+      "hi": "ICICI बैंक"
+    },
+    "country": {
+      "en": "India",
+      "hi": "भारत"
+    },
+    "phone": "18002662",
+    "url": "https://www.icici.bank.in/customer-care",
+    "source": "https://www.icici.bank.in/customer-care",
+    "last_verified": "2026-10-31",
+    "purpose": {
+      "en": "Fraud-reporting helpline. General customer support: 1800 1080.",
+      "hi": "धोखाधड़ी की सूचना के लिए हेल्पलाइन। सामान्य सहायता: 1800 1080।"
+    }
+  },
+  {
+    "id": "axis",
+    "name": {
+      "en": "Axis Bank",
+      "hi": "एक्सिस बैंक"
+    },
+    "country": {
+      "en": "India",
+      "hi": "भारत"
+    },
+    "phone": "18002095577",
+    "url": "https://www.axisbank.com/Contact-us/banking-ombudsman",
+    "source": "https://www.axisbank.com/Contact-us/banking-ombudsman",
+    "last_verified": "2026-10-31",
+    "purpose": {
+      "en": "Customer-care helpline; ask to report fraud / block affected access. Alternate: 1800 103 5577.",
+      "hi": "ग्राहक सेवा हेल्पलाइन; धोखाधड़ी की सूचना और प्रभावित सेवाएँ बंद करने की सहायता माँगें। वैकल्पिक: 1800 103 5577।"
+    }
+  },
+  {
+    "id": "hsbc",
+    "name": {
+      "en": "HSBC India",
+      "hi": "HSBC इंडिया"
+    },
+    "country": {
+      "en": "India",
+      "hi": "भारत"
+    },
+    "phone": "18002673456",
+    "url": "https://www.hsbc.bank.in/help/contact/",
+    "source": "https://www.hsbc.bank.in/help/contact/",
+    "last_verified": "2026-10-31",
+    "purpose": {
+      "en": "Personal banking and credit cards. Emergency unauthorised-transaction reporting and card blocking are available 24/7.",
+      "hi": "व्यक्तिगत बैंकिंग और क्रेडिट कार्ड। आपात अनधिकृत लेनदेन की सूचना और कार्ड बंद करने की सेवा 24 घंटे उपलब्ध है।"
+    }
+  }
+]

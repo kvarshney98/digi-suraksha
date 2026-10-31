@@ -1,0 +1,14 @@
+{
+  "description": "Synthetic example: a fictional sender requested a payment to update KYC. No real victim or transaction is involved.",
+  "outcome": "attempt",
+  "date": "2026-10-31",
+  "time": "10:00",
+  "time_approximate": true,
+  "state": "Madhya Pradesh",
+  "city": "Indore",
+  "sender_email": "support@bank.example",
+  "reference": "DEMO-NOT-A-REAL-TRANSACTION",
+  "evidence": "Synthetic message and screenshot supplied for demonstration only.",
+  "language": "en",
+  "save": false
+}

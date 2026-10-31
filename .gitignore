@@ -1,0 +1,24 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+*.sqlite3
+
+*.sqlite3-journal
+*.sqlite3-wal
+*.sqlite3-shm
+
+# Secrets and developer-only artifacts
+.env.*
+!.env.example
+*.pem
+*.key
+*.log
+.coverage
+htmlcov/
+dist/
+cmds.txt
+# Local browser captures; curated project screenshots can live in docs/.
+data/*-preview.png
+data/running-*.png
+data/demo-result-*.png

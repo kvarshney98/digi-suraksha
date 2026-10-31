@@ -1,0 +1,254 @@
+[
+  {
+    "value": "Andaman and Nicobar Islands",
+    "name": {
+      "en": "Andaman and Nicobar Islands",
+      "hi": "अंडमान और निकोबार द्वीपसमूह"
+    }
+  },
+  {
+    "value": "Andhra Pradesh",
+    "name": {
+      "en": "Andhra Pradesh",
+      "hi": "आंध्र प्रदेश"
+    }
+  },
+  {
+    "value": "Arunachal Pradesh",
+    "name": {
+      "en": "Arunachal Pradesh",
+      "hi": "अरुणाचल प्रदेश"
+    }
+  },
+  {
+    "value": "Assam",
+    "name": {
+      "en": "Assam",
+      "hi": "असम"
+    }
+  },
+  {
+    "value": "Bihar",
+    "name": {
+      "en": "Bihar",
+      "hi": "बिहार"
+    }
+  },
+  {
+    "value": "Chandigarh",
+    "name": {
+      "en": "Chandigarh",
+      "hi": "चंडीगढ़"
+    }
+  },
+  {
+    "value": "Chhattisgarh",
+    "name": {
+      "en": "Chhattisgarh",
+      "hi": "छत्तीसगढ़"
+    }
+  },
+  {
+    "value": "Dadra and Nagar Haveli and Daman and Diu",
+    "name": {
+      "en": "Dadra and Nagar Haveli and Daman and Diu",
+      "hi": "दादरा और नगर हवेली और दमन और दीव"
+    }
+  },
+  {
+    "value": "Delhi",
+    "name": {
+      "en": "Delhi",
+      "hi": "दिल्ली"
+    }
+  },
+  {
+    "value": "Goa",
+    "name": {
+      "en": "Goa",
+      "hi": "गोवा"
+    }
+  },
+  {
+    "value": "Gujarat",
+    "name": {
+      "en": "Gujarat",
+      "hi": "गुजरात"
+    }
+  },
+  {
+    "value": "Haryana",
+    "name": {
+      "en": "Haryana",
+      "hi": "हरियाणा"
+    }
+  },
+  {
+    "value": "Himachal Pradesh",
+    "name": {
+      "en": "Himachal Pradesh",
+      "hi": "हिमाचल प्रदेश"
+    }
+  },
+  {
+    "value": "Jammu and Kashmir",
+    "name": {
+      "en": "Jammu and Kashmir",
+      "hi": "जम्मू और कश्मीर"
+    }
+  },
+  {
+    "value": "Jharkhand",
+    "name": {
+      "en": "Jharkhand",
+      "hi": "झारखंड"
+    }
+  },
+  {
+    "value": "Karnataka",
+    "name": {
+      "en": "Karnataka",
+      "hi": "कर्नाटक"
+    }
+  },
+  {
+    "value": "Kerala",
+    "name": {
+      "en": "Kerala",
+      "hi": "केरल"
+    }
+  },
+  {
+    "value": "Ladakh",
+    "name": {
+      "en": "Ladakh",
+      "hi": "लद्दाख"
+    }
+  },
+  {
+    "value": "Lakshadweep",
+    "name": {
+      "en": "Lakshadweep",
+      "hi": "लक्षद्वीप"
+    }
+  },
+  {
+    "value": "Madhya Pradesh",
+    "name": {
+      "en": "Madhya Pradesh",
+      "hi": "मध्य प्रदेश"
+    }
+  },
+  {
+    "value": "Maharashtra",
+    "name": {
+      "en": "Maharashtra",
+      "hi": "महाराष्ट्र"
+    }
+  },
+  {
+    "value": "Manipur",
+    "name": {
+      "en": "Manipur",
+      "hi": "मणिपुर"
+    }
+  },
+  {
+    "value": "Meghalaya",
+    "name": {
+      "en": "Meghalaya",
+      "hi": "मेघालय"
+    }
+  },
+  {
+    "value": "Mizoram",
+    "name": {
+      "en": "Mizoram",
+      "hi": "मिज़ोरम"
+    }
+  },
+  {
+    "value": "Nagaland",
+    "name": {
+      "en": "Nagaland",
+      "hi": "नागालैंड"
+    }
+  },
+  {
+    "value": "Odisha",
+    "name": {
+      "en": "Odisha",
+      "hi": "ओडिशा"
+    }
+  },
+  {
+    "value": "Puducherry",
+    "name": {
+      "en": "Puducherry",
+      "hi": "पुदुचेरी"
+    }
+  },
+  {
+    "value": "Punjab",
+    "name": {
+      "en": "Punjab",
+      "hi": "पंजाब"
+    }
+  },
+  {
+    "value": "Rajasthan",
+    "name": {
+      "en": "Rajasthan",
+      "hi": "राजस्थान"
+    }
+  },
+  {
+    "value": "Sikkim",
+    "name": {
+      "en": "Sikkim",
+      "hi": "सिक्किम"
+    }
+  },
+  {
+    "value": "Tamil Nadu",
+    "name": {
+      "en": "Tamil Nadu",
+      "hi": "तमिलनाडु"
+    }
+  },
+  {
+    "value": "Telangana",
+    "name": {
+      "en": "Telangana",
+      "hi": "तेलंगाना"
+    }
+  },
+  {
+    "value": "Tripura",
+    "name": {
+      "en": "Tripura",
+      "hi": "त्रिपुरा"
+    }
+  },
+  {
+    "value": "Uttar Pradesh",
+    "name": {
+      "en": "Uttar Pradesh",
+      "hi": "उत्तर प्रदेश"
+    }
+  },
+  {
+    "value": "Uttarakhand",
+    "name": {
+      "en": "Uttarakhand",
+      "hi": "उत्तराखंड"
+    }
+  },
+  {
+    "value": "West Bengal",
+    "name": {
+      "en": "West Bengal",
+      "hi": "पश्चिम बंगाल"
+    }
+  }
+]

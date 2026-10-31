@@ -1,0 +1,11 @@
+From: Synthetic Bank Support <support@bank.example>
+Reply-To: collection@unrelated.example
+To: Demo Recipient <recipient@example.org>
+Subject: Urgent KYC verification - synthetic example
+Date: Sat, 31 Oct 2026 10:00:00 +0530
+Authentication-Results: demo.example; spf=fail; dkim=fail
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+SYNTHETIC DEMONSTRATION ONLY. Your account will be blocked today.
+Send OTP immediately to update KYC: http://bank-kyc.example/login

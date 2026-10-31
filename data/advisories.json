@@ -1,0 +1,400 @@
+[
+  {
+    "id": "0",
+    "title": {
+      "en": "Phishing & smishing",
+      "hi": "फ़िशिंग और SMS धोखाधड़ी"
+    },
+    "looks": {
+      "en": "Unexpected links asking you to sign in.",
+      "hi": "लॉगिन के लिए अनपेक्षित लिंक।"
+    },
+    "signs": {
+      "en": "Unexpected links asking you to sign in.",
+      "hi": "लॉगिन के लिए अनपेक्षित लिंक।"
+    },
+    "action": {
+      "en": "Check the sender independently; type the official address yourself.",
+      "hi": "भेजने वाले की स्वतंत्र जाँच करें; आधिकारिक पता स्वयं लिखें।"
+    },
+    "avoid": {
+      "en": "Do not pay under pressure, share OTPs/PINs/passwords or open unverified links.",
+      "hi": "दबाव में भुगतान, OTP/पिन/पासवर्ड साझा करना या असत्यापित लिंक खोलना टालें।"
+    },
+    "after": {
+      "en": "If money was lost: contact your bank and 1930 promptly. If credentials were exposed: change them from a trusted device and revoke sessions. Preserve messages and transaction records; report at NCRP.",
+      "hi": "धन हानि पर तुरंत बैंक और 1930 से संपर्क करें। जानकारी उजागर होने पर विश्वसनीय उपकरण से पासवर्ड बदलें और सत्र बंद करें। संदेश और लेनदेन रिकॉर्ड सुरक्षित रखें; NCRP पर रिपोर्ट करें।"
+    },
+    "resource": "ncrp",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=XDWRAx94Xk8",
+        "title": {
+          "en": "What is phishing? · CyberDost I4C",
+          "hi": "फ़िशिंग क्या है? · CyberDost I4C"
+        },
+        "last_verified": "2026-10-31"
+      }
+    ],
+    "video_channel": {
+      "url": "https://www.youtube.com/@cyberdosti4c",
+      "title": {
+        "en": "More awareness videos · CyberDost I4C (MHA)",
+        "hi": "जागरूकता वीडियो · CyberDost I4C (गृह मंत्रालय)"
+      },
+      "source": "https://dipam.gov.in/ddaservice/dipam_docs/Circulars/Presentation%20regarding%20cyber%20Hygiene.pdf",
+      "last_verified": "2026-10-31"
+    }
+  },
+  {
+    "id": "1",
+    "title": {
+      "en": "UPI & payment fraud",
+      "hi": "UPI और भुगतान धोखाधड़ी"
+    },
+    "looks": {
+      "en": "A PIN request to receive money or an unexpected collect request.",
+      "hi": "पैसे पाने के लिए पिन या अनपेक्षित भुगतान अनुरोध।"
+    },
+    "signs": {
+      "en": "A PIN request to receive money or an unexpected collect request.",
+      "hi": "पैसे पाने के लिए पिन या अनपेक्षित भुगतान अनुरोध।"
+    },
+    "action": {
+      "en": "Read the payment direction and recipient before confirming.",
+      "hi": "पुष्टि से पहले भुगतान की दिशा और प्राप्तकर्ता पढ़ें।"
+    },
+    "avoid": {
+      "en": "Do not pay under pressure, share OTPs/PINs/passwords or open unverified links.",
+      "hi": "दबाव में भुगतान, OTP/पिन/पासवर्ड साझा करना या असत्यापित लिंक खोलना टालें।"
+    },
+    "after": {
+      "en": "If money was lost: contact your bank and 1930 promptly. If credentials were exposed: change them from a trusted device and revoke sessions. Preserve messages and transaction records; report at NCRP.",
+      "hi": "धन हानि पर तुरंत बैंक और 1930 से संपर्क करें। जानकारी उजागर होने पर विश्वसनीय उपकरण से पासवर्ड बदलें और सत्र बंद करें। संदेश और लेनदेन रिकॉर्ड सुरक्षित रखें; NCRP पर रिपोर्ट करें।"
+    },
+    "resource": "ncrp",
+    "videos": [],
+    "video_channel": {
+      "url": "https://www.youtube.com/@cyberdosti4c",
+      "title": {
+        "en": "More awareness videos · CyberDost I4C (MHA)",
+        "hi": "जागरूकता वीडियो · CyberDost I4C (गृह मंत्रालय)"
+      },
+      "source": "https://dipam.gov.in/ddaservice/dipam_docs/Circulars/Presentation%20regarding%20cyber%20Hygiene.pdf",
+      "last_verified": "2026-10-31"
+    }
+  },
+  {
+    "id": "2",
+    "title": {
+      "en": "Fake customer care",
+      "hi": "नकली ग्राहक सेवा"
+    },
+    "looks": {
+      "en": "Search results or messages offering unofficial support numbers.",
+      "hi": "खोज परिणाम या संदेशों में अनधिकृत सहायता नंबर।"
+    },
+    "signs": {
+      "en": "Search results or messages offering unofficial support numbers.",
+      "hi": "खोज परिणाम या संदेशों में अनधिकृत सहायता नंबर।"
+    },
+    "action": {
+      "en": "Find support inside the official app or statement.",
+      "hi": "आधिकारिक ऐप या विवरण से संपर्क खोजें।"
+    },
+    "avoid": {
+      "en": "Do not pay under pressure, share OTPs/PINs/passwords or open unverified links.",
+      "hi": "दबाव में भुगतान, OTP/पिन/पासवर्ड साझा करना या असत्यापित लिंक खोलना टालें।"
+    },
+    "after": {
+      "en": "If money was lost: contact your bank and 1930 promptly. If credentials were exposed: change them from a trusted device and revoke sessions. Preserve messages and transaction records; report at NCRP.",
+      "hi": "धन हानि पर तुरंत बैंक और 1930 से संपर्क करें। जानकारी उजागर होने पर विश्वसनीय उपकरण से पासवर्ड बदलें और सत्र बंद करें। संदेश और लेनदेन रिकॉर्ड सुरक्षित रखें; NCRP पर रिपोर्ट करें।"
+    },
+    "resource": "ncrp",
+    "videos": [],
+    "video_channel": {
+      "url": "https://www.youtube.com/@cyberdosti4c",
+      "title": {
+        "en": "More awareness videos · CyberDost I4C (MHA)",
+        "hi": "जागरूकता वीडियो · CyberDost I4C (गृह मंत्रालय)"
+      },
+      "source": "https://dipam.gov.in/ddaservice/dipam_docs/Circulars/Presentation%20regarding%20cyber%20Hygiene.pdf",
+      "last_verified": "2026-10-31"
+    }
+  },
+  {
+    "id": "3",
+    "title": {
+      "en": "Fake jobs",
+      "hi": "नकली नौकरी"
+    },
+    "looks": {
+      "en": "Recruiters demanding a registration fee or deposit.",
+      "hi": "भर्ती के लिए पंजीकरण शुल्क या जमा राशि।"
+    },
+    "signs": {
+      "en": "Recruiters demanding a registration fee or deposit.",
+      "hi": "भर्ती के लिए पंजीकरण शुल्क या जमा राशि।"
+    },
+    "action": {
+      "en": "Verify the employer through its official careers page.",
+      "hi": "नियोक्ता के आधिकारिक करियर पृष्ठ से जाँच करें।"
+    },
+    "avoid": {
+      "en": "Do not pay under pressure, share OTPs/PINs/passwords or open unverified links.",
+      "hi": "दबाव में भुगतान, OTP/पिन/पासवर्ड साझा करना या असत्यापित लिंक खोलना टालें।"
+    },
+    "after": {
+      "en": "If money was lost: contact your bank and 1930 promptly. If credentials were exposed: change them from a trusted device and revoke sessions. Preserve messages and transaction records; report at NCRP.",
+      "hi": "धन हानि पर तुरंत बैंक और 1930 से संपर्क करें। जानकारी उजागर होने पर विश्वसनीय उपकरण से पासवर्ड बदलें और सत्र बंद करें। संदेश और लेनदेन रिकॉर्ड सुरक्षित रखें; NCRP पर रिपोर्ट करें।"
+    },
+    "resource": "ncrp",
+    "videos": [],
+    "video_channel": {
+      "url": "https://www.youtube.com/@cyberdosti4c",
+      "title": {
+        "en": "More awareness videos · CyberDost I4C (MHA)",
+        "hi": "जागरूकता वीडियो · CyberDost I4C (गृह मंत्रालय)"
+      },
+      "source": "https://dipam.gov.in/ddaservice/dipam_docs/Circulars/Presentation%20regarding%20cyber%20Hygiene.pdf",
+      "last_verified": "2026-10-31"
+    }
+  },
+  {
+    "id": "4",
+    "title": {
+      "en": "Investment & loan scams",
+      "hi": "निवेश और ऋण धोखाधड़ी"
+    },
+    "looks": {
+      "en": "Guaranteed returns, trading groups or upfront loan fees.",
+      "hi": "गारंटीड लाभ, ट्रेडिंग समूह या ऋण से पहले शुल्क।"
+    },
+    "signs": {
+      "en": "Guaranteed returns, trading groups or upfront loan fees.",
+      "hi": "गारंटीड लाभ, ट्रेडिंग समूह या ऋण से पहले शुल्क।"
+    },
+    "action": {
+      "en": "Verify registration independently; resist rushed payments.",
+      "hi": "पंजीकरण की स्वतंत्र जाँच करें; जल्दबाज़ी में भुगतान न करें।"
+    },
+    "avoid": {
+      "en": "Do not pay under pressure, share OTPs/PINs/passwords or open unverified links.",
+      "hi": "दबाव में भुगतान, OTP/पिन/पासवर्ड साझा करना या असत्यापित लिंक खोलना टालें।"
+    },
+    "after": {
+      "en": "If money was lost: contact your bank and 1930 promptly. If credentials were exposed: change them from a trusted device and revoke sessions. Preserve messages and transaction records; report at NCRP.",
+      "hi": "धन हानि पर तुरंत बैंक और 1930 से संपर्क करें। जानकारी उजागर होने पर विश्वसनीय उपकरण से पासवर्ड बदलें और सत्र बंद करें। संदेश और लेनदेन रिकॉर्ड सुरक्षित रखें; NCRP पर रिपोर्ट करें।"
+    },
+    "resource": "ncrp",
+    "videos": [],
+    "video_channel": {
+      "url": "https://www.youtube.com/@cyberdosti4c",
+      "title": {
+        "en": "More awareness videos · CyberDost I4C (MHA)",
+        "hi": "जागरूकता वीडियो · CyberDost I4C (गृह मंत्रालय)"
+      },
+      "source": "https://dipam.gov.in/ddaservice/dipam_docs/Circulars/Presentation%20regarding%20cyber%20Hygiene.pdf",
+      "last_verified": "2026-10-31"
+    }
+  },
+  {
+    "id": "5",
+    "title": {
+      "en": "KYC & account scams",
+      "hi": "KYC और खाता धोखाधड़ी"
+    },
+    "looks": {
+      "en": "A threat to block your account unless you use a link.",
+      "hi": "लिंक न खोलने पर खाता बंद करने की धमकी।"
+    },
+    "signs": {
+      "en": "A threat to block your account unless you use a link.",
+      "hi": "लिंक न खोलने पर खाता बंद करने की धमकी।"
+    },
+    "action": {
+      "en": "Use your bank app or branch to verify.",
+      "hi": "बैंक ऐप या शाखा से जाँच करें।"
+    },
+    "avoid": {
+      "en": "Do not pay under pressure, share OTPs/PINs/passwords or open unverified links.",
+      "hi": "दबाव में भुगतान, OTP/पिन/पासवर्ड साझा करना या असत्यापित लिंक खोलना टालें।"
+    },
+    "after": {
+      "en": "If money was lost: contact your bank and 1930 promptly. If credentials were exposed: change them from a trusted device and revoke sessions. Preserve messages and transaction records; report at NCRP.",
+      "hi": "धन हानि पर तुरंत बैंक और 1930 से संपर्क करें। जानकारी उजागर होने पर विश्वसनीय उपकरण से पासवर्ड बदलें और सत्र बंद करें। संदेश और लेनदेन रिकॉर्ड सुरक्षित रखें; NCRP पर रिपोर्ट करें।"
+    },
+    "resource": "ncrp",
+    "videos": [],
+    "video_channel": {
+      "url": "https://www.youtube.com/@cyberdosti4c",
+      "title": {
+        "en": "More awareness videos · CyberDost I4C (MHA)",
+        "hi": "जागरूकता वीडियो · CyberDost I4C (गृह मंत्रालय)"
+      },
+      "source": "https://dipam.gov.in/ddaservice/dipam_docs/Circulars/Presentation%20regarding%20cyber%20Hygiene.pdf",
+      "last_verified": "2026-10-31"
+    }
+  },
+  {
+    "id": "6",
+    "title": {
+      "en": "Impersonation & digital arrest",
+      "hi": "नकली पहचान और डिजिटल अरेस्ट"
+    },
+    "looks": {
+      "en": "A caller claiming authority threatens arrest and demands secrecy or a transfer.",
+      "hi": "अधिकारी होने का दावा करके गिरफ्तारी, गोपनीयता या पैसे की मांग।"
+    },
+    "signs": {
+      "en": "A caller claiming authority threatens arrest and demands secrecy or a transfer.",
+      "hi": "अधिकारी होने का दावा करके गिरफ्तारी, गोपनीयता या पैसे की मांग।"
+    },
+    "action": {
+      "en": "End the call and independently contact the authorities.",
+      "hi": "कॉल रोकें और अधिकारियों से स्वतंत्र संपर्क करें।"
+    },
+    "avoid": {
+      "en": "Do not pay under pressure, share OTPs/PINs/passwords or open unverified links.",
+      "hi": "दबाव में भुगतान, OTP/पिन/पासवर्ड साझा करना या असत्यापित लिंक खोलना टालें।"
+    },
+    "after": {
+      "en": "If money was lost: contact your bank and 1930 promptly. If credentials were exposed: change them from a trusted device and revoke sessions. Preserve messages and transaction records; report at NCRP.",
+      "hi": "धन हानि पर तुरंत बैंक और 1930 से संपर्क करें। जानकारी उजागर होने पर विश्वसनीय उपकरण से पासवर्ड बदलें और सत्र बंद करें। संदेश और लेनदेन रिकॉर्ड सुरक्षित रखें; NCRP पर रिपोर्ट करें।"
+    },
+    "resource": "ncrp",
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=3jUyJYKH8bM",
+        "title": {
+          "en": "Understanding digital-arrest scams · CyberDost I4C",
+          "hi": "डिजिटल अरेस्ट धोखाधड़ी समझें · CyberDost I4C"
+        },
+        "last_verified": "2026-10-31"
+      }
+    ],
+    "video_channel": {
+      "url": "https://www.youtube.com/@cyberdosti4c",
+      "title": {
+        "en": "More awareness videos · CyberDost I4C (MHA)",
+        "hi": "जागरूकता वीडियो · CyberDost I4C (गृह मंत्रालय)"
+      },
+      "source": "https://dipam.gov.in/ddaservice/dipam_docs/Circulars/Presentation%20regarding%20cyber%20Hygiene.pdf",
+      "last_verified": "2026-10-31"
+    }
+  },
+  {
+    "id": "7",
+    "title": {
+      "en": "Sextortion & blackmail",
+      "hi": "यौन ब्लैकमेल और धमकी"
+    },
+    "looks": {
+      "en": "Threats to publish intimate or manipulated images.",
+      "hi": "निजी या बदली हुई तस्वीरें प्रकाशित करने की धमकी।"
+    },
+    "signs": {
+      "en": "Threats to publish intimate or manipulated images.",
+      "hi": "निजी या बदली हुई तस्वीरें प्रकाशित करने की धमकी।"
+    },
+    "action": {
+      "en": "Preserve evidence, report the account and seek trusted support.",
+      "hi": "सबूत रखें, खाते की रिपोर्ट करें और विश्वसनीय सहायता लें।"
+    },
+    "avoid": {
+      "en": "Do not pay under pressure, share OTPs/PINs/passwords or open unverified links.",
+      "hi": "दबाव में भुगतान, OTP/पिन/पासवर्ड साझा करना या असत्यापित लिंक खोलना टालें।"
+    },
+    "after": {
+      "en": "If money was lost: contact your bank and 1930 promptly. If credentials were exposed: change them from a trusted device and revoke sessions. Preserve messages and transaction records; report at NCRP.",
+      "hi": "धन हानि पर तुरंत बैंक और 1930 से संपर्क करें। जानकारी उजागर होने पर विश्वसनीय उपकरण से पासवर्ड बदलें और सत्र बंद करें। संदेश और लेनदेन रिकॉर्ड सुरक्षित रखें; NCRP पर रिपोर्ट करें।"
+    },
+    "resource": "ncrp",
+    "videos": [],
+    "video_channel": {
+      "url": "https://www.youtube.com/@cyberdosti4c",
+      "title": {
+        "en": "More awareness videos · CyberDost I4C (MHA)",
+        "hi": "जागरूकता वीडियो · CyberDost I4C (गृह मंत्रालय)"
+      },
+      "source": "https://dipam.gov.in/ddaservice/dipam_docs/Circulars/Presentation%20regarding%20cyber%20Hygiene.pdf",
+      "last_verified": "2026-10-31"
+    }
+  },
+  {
+    "id": "8",
+    "title": {
+      "en": "Malicious apps & remote access",
+      "hi": "हानिकारक ऐप और रिमोट एक्सेस"
+    },
+    "looks": {
+      "en": "A stranger asks you to install an APK or screen-sharing tool.",
+      "hi": "अनजान व्यक्ति APK या स्क्रीन शेयरिंग ऐप स्थापित करवाता है।"
+    },
+    "signs": {
+      "en": "A stranger asks you to install an APK or screen-sharing tool.",
+      "hi": "अनजान व्यक्ति APK या स्क्रीन शेयरिंग ऐप स्थापित करवाता है।"
+    },
+    "action": {
+      "en": "Disconnect remote access and remove suspicious apps using a trusted device.",
+      "hi": "रिमोट एक्सेस बंद करें और विश्वसनीय उपकरण से संदिग्ध ऐप हटाएँ।"
+    },
+    "avoid": {
+      "en": "Do not pay under pressure, share OTPs/PINs/passwords or open unverified links.",
+      "hi": "दबाव में भुगतान, OTP/पिन/पासवर्ड साझा करना या असत्यापित लिंक खोलना टालें।"
+    },
+    "after": {
+      "en": "If money was lost: contact your bank and 1930 promptly. If credentials were exposed: change them from a trusted device and revoke sessions. Preserve messages and transaction records; report at NCRP.",
+      "hi": "धन हानि पर तुरंत बैंक और 1930 से संपर्क करें। जानकारी उजागर होने पर विश्वसनीय उपकरण से पासवर्ड बदलें और सत्र बंद करें। संदेश और लेनदेन रिकॉर्ड सुरक्षित रखें; NCRP पर रिपोर्ट करें।"
+    },
+    "resource": "ncrp",
+    "videos": [],
+    "video_channel": {
+      "url": "https://www.youtube.com/@cyberdosti4c",
+      "title": {
+        "en": "More awareness videos · CyberDost I4C (MHA)",
+        "hi": "जागरूकता वीडियो · CyberDost I4C (गृह मंत्रालय)"
+      },
+      "source": "https://dipam.gov.in/ddaservice/dipam_docs/Circulars/Presentation%20regarding%20cyber%20Hygiene.pdf",
+      "last_verified": "2026-10-31"
+    }
+  },
+  {
+    "id": "9",
+    "title": {
+      "en": "Social engineering & OTP theft",
+      "hi": "सोशल इंजीनियरिंग और OTP चोरी"
+    },
+    "looks": {
+      "en": "A person uses trust, fear or urgency to ask for secrets.",
+      "hi": "भरोसे, डर या जल्दबाज़ी से गोपनीय जानकारी माँगना।"
+    },
+    "signs": {
+      "en": "A person uses trust, fear or urgency to ask for secrets.",
+      "hi": "भरोसे, डर या जल्दबाज़ी से गोपनीय जानकारी माँगना।"
+    },
+    "action": {
+      "en": "Pause and verify independently before acting.",
+      "hi": "रुकें और कार्रवाई से पहले स्वतंत्र जाँच करें।"
+    },
+    "avoid": {
+      "en": "Do not pay under pressure, share OTPs/PINs/passwords or open unverified links.",
+      "hi": "दबाव में भुगतान, OTP/पिन/पासवर्ड साझा करना या असत्यापित लिंक खोलना टालें।"
+    },
+    "after": {
+      "en": "If money was lost: contact your bank and 1930 promptly. If credentials were exposed: change them from a trusted device and revoke sessions. Preserve messages and transaction records; report at NCRP.",
+      "hi": "धन हानि पर तुरंत बैंक और 1930 से संपर्क करें। जानकारी उजागर होने पर विश्वसनीय उपकरण से पासवर्ड बदलें और सत्र बंद करें। संदेश और लेनदेन रिकॉर्ड सुरक्षित रखें; NCRP पर रिपोर्ट करें।"
+    },
+    "resource": "ncrp",
+    "videos": [],
+    "video_channel": {
+      "url": "https://www.youtube.com/@cyberdosti4c",
+      "title": {
+        "en": "More awareness videos · CyberDost I4C (MHA)",
+        "hi": "जागरूकता वीडियो · CyberDost I4C (गृह मंत्रालय)"
+      },
+      "source": "https://dipam.gov.in/ddaservice/dipam_docs/Circulars/Presentation%20regarding%20cyber%20Hygiene.pdf",
+      "last_verified": "2026-10-31"
+    }
+  }
+]

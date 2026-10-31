@@ -1,0 +1,68 @@
+[
+  {
+    "id": "otp-en",
+    "input_type": "text",
+    "language": "en",
+    "content": "Your account will be blocked today. Send OTP immediately to complete KYC: http://bank-kyc.example/login",
+    "expected_risk": "High",
+    "label": "suspicious"
+  },
+  {
+    "id": "arrest-en",
+    "input_type": "text",
+    "language": "en",
+    "content": "This is the police. You are under digital arrest for money laundering. Immediately transfer savings to our safe account.",
+    "expected_risk": "Critical",
+    "label": "suspicious"
+  },
+  {
+    "id": "otp-hi",
+    "input_type": "text",
+    "language": "hi",
+    "content": "आपका खाता आज ही बंद होगा। ओटीपी भेजें और तुरंत केवाईसी करें।",
+    "expected_risk": "High",
+    "label": "suspicious"
+  },
+  {
+    "id": "job-en",
+    "input_type": "text",
+    "language": "en",
+    "content": "Your job is confirmed. Pay the registration fee to receive your appointment letter.",
+    "expected_risk": "Moderate",
+    "label": "suspicious"
+  },
+  {
+    "id": "ordinary-en",
+    "input_type": "text",
+    "language": "en",
+    "content": "Hi, the library opens tomorrow at 9. Please bring your book.",
+    "expected_risk": "Low",
+    "label": "benign"
+  },
+  {
+    "id": "negation-en",
+    "input_type": "text",
+    "language": "en",
+    "content": "Never share your OTP. Your bank will never ask for it.",
+    "expected_risk": "Low",
+    "label": "benign"
+  },
+  {
+    "id": "false-positive",
+    "input_type": "text",
+    "language": "en",
+    "content": "Your appointment is today at 10.",
+    "expected_risk": "Moderate",
+    "label": "benign",
+    "known_limitation": "Urgency rule creates a false positive."
+  },
+  {
+    "id": "false-negative",
+    "input_type": "text",
+    "language": "en",
+    "content": "Your parcel delivery requires a small payment.",
+    "expected_risk": "Low",
+    "label": "suspicious",
+    "known_limitation": "Parcel-payment wording is not covered; Low does not establish safety."
+  }
+]

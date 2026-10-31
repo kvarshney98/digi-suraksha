@@ -1,0 +1,86 @@
+[
+  {
+    "id": "ncrp",
+    "name": {
+      "en": "National Cyber Crime Reporting Portal",
+      "hi": "राष्ट्रीय साइबर अपराध रिपोर्टिंग पोर्टल"
+    },
+    "url": "https://www.cybercrime.gov.in/",
+    "phone": "1930",
+    "incident_types": [
+      "cybercrime"
+    ],
+    "instructions": {
+      "en": "Report cybercrime; for financial loss, contact your bank and call 1930 promptly. Complete the portal workflow and keep the acknowledgement.",
+      "hi": "साइबर अपराध की शिकायत करें; धन हानि पर तुरंत बैंक और 1930 से संपर्क करें। पोर्टल प्रक्रिया पूरी कर पावती रखें।"
+    },
+    "required_information": {
+      "en": "Date, description, suspect identifiers and available screenshots; transaction reference if relevant. Never include secrets.",
+      "hi": "दिनांक, विवरण, संदिग्ध पहचान और उपलब्ध स्क्रीनशॉट; लागू होने पर लेनदेन संदर्भ। गोपनीय जानकारी न दें।"
+    },
+    "limitations": {
+      "en": "Portal submission is separate from generating a draft. Recovery is not guaranteed.",
+      "hi": "मसौदा बनाना और पोर्टल पर जमा करना अलग हैं। धन वापसी की गारंटी नहीं है।"
+    },
+    "last_verified": "2026-10-15",
+    "source": "https://www.cybercrime.gov.in/",
+    "verification": "Official NCRP pages",
+    "provenance": "https://www.cybercrime.gov.in/"
+  },
+  {
+    "id": "suspect",
+    "name": {
+      "en": "Report Suspect to I4C",
+      "hi": "I4C को संदिग्ध की सूचना"
+    },
+    "url": "https://cybercrime.gov.in/webform/cyber_suspect.aspx",
+    "phone": "",
+    "incident_types": [
+      "suspected communication"
+    ],
+    "instructions": {
+      "en": "Report suspect URLs, phone numbers, email addresses and social handles. Victims should use the crime reporting portal / 1930.",
+      "hi": "संदिग्ध लिंक, नंबर, ईमेल और सोशल हैंडल की सूचना दें। पीड़ित अपराध पोर्टल / 1930 का उपयोग करें।"
+    },
+    "required_information": {
+      "en": "Date, description, suspect identifiers and available screenshots; transaction reference if relevant. Never include secrets.",
+      "hi": "दिनांक, विवरण, संदिग्ध पहचान और उपलब्ध स्क्रीनशॉट; लागू होने पर लेनदेन संदर्भ। गोपनीय जानकारी न दें।"
+    },
+    "limitations": {
+      "en": "Reporting an identifier is not a victim complaint.",
+      "hi": "संदिग्ध पहचान की सूचना पीड़ित की शिकायत नहीं है।"
+    },
+    "last_verified": "2026-10-15",
+    "source": "https://cybercrime.gov.in/webform/cyber_suspect.aspx",
+    "verification": "Official NCRP pages",
+    "provenance": "https://cybercrime.gov.in/webform/cyber_suspect.aspx"
+  },
+  {
+    "id": "chakshu",
+    "name": {
+      "en": "Sanchar Saathi · Chakshu",
+      "hi": "संचार साथी · चक्षु"
+    },
+    "url": "https://sancharsaathi.gov.in/",
+    "phone": "",
+    "incident_types": [
+      "suspected communication"
+    ],
+    "instructions": {
+      "en": "Use Chakshu for suspected fraudulent communications. Follow the current eligibility and time-window instructions on the official portal.",
+      "hi": "संदिग्ध धोखाधड़ी संचार के लिए चक्षु चुनें। आधिकारिक पोर्टल की पात्रता और समय सीमा देखें।"
+    },
+    "required_information": {
+      "en": "Date, description, suspect identifiers and available screenshots; transaction reference if relevant. Never include secrets.",
+      "hi": "दिनांक, विवरण, संदिग्ध पहचान और उपलब्ध स्क्रीनशॉट; लागू होने पर लेनदेन संदर्भ। गोपनीय जानकारी न दें।"
+    },
+    "limitations": {
+      "en": "Chakshu is not a financial-loss complaint channel. Use NCRP / 1930 if money was lost.",
+      "hi": "चक्षु धन हानि की शिकायत का माध्यम नहीं है। धन हानि पर NCRP / 1930 चुनें।"
+    },
+    "last_verified": "2026-10-15",
+    "source": "https://sancharsaathi.gov.in/",
+    "verification": "Official NCRP page and official DoT Chakshu press release; Sanchar Saathi homepage returned 403 to automated fetch.",
+    "provenance": "https://sancharsaathi.gov.in/SancharSaathiDocuments/ImportantDocuments/DoT%20Press%20Release-%20Hon%27ble%20Union%20Minister%20of%20Communications%20Shri%20Ashwini%20Vaishnaw%20launches%20Digital%20Intelligence%20Platform%20%26%20Chakshu%20Module%20on%20Sanchar%20Saathi%20-%2004.03.2024.pdf"
+  }
+]
